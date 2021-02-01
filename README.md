@@ -1,2 +1,6 @@
-# 1_Basics_of_software_code_development
-The repository contains solutions for the first module of Epam's Java Online Training.
+Basics of software code development
+
+Описание файлов:
+
+Practice (tasks).pdf - файл содержит список задач, которые необходимо было решить для завершения этапа.
+
